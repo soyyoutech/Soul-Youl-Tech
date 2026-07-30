@@ -136,7 +136,7 @@ const char* ssid = "";
 const char* password = "";
 
 String firebaseHost = "https://datosbase111-default-rtdb.firebaseio.com/";
-String firebaseAuth = "REEMPLAZAR_TOKEN";
+String firebaseAuth = "iFy4c5w94E0707O079dKcDxojPLnqgceFCy2zr6U";
 
 typedef struct struct_mensaje {
     uint8_t id;
